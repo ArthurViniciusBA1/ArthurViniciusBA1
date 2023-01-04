@@ -6,7 +6,6 @@
 object ArthurViniciusBA1 {
  const name = "Arthur Vinícius"
  const acknowledgements = "Front end Developer"
-
  const primarySkillset = "Front end Development"
  const languages = listOf("Javascript", "React", "Typescript")
 }
