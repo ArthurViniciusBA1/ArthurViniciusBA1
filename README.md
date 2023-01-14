@@ -1,6 +1,9 @@
-## 👾 Olá, meu nome é <strong>Arthur!</strong>
+##  Hi! <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />  
+##  I'm <strong>Arthur!</strong>
 
-> (Front end developer ✔️ && Back end developer ⏳)
+> (Front end developer ✅ && Back end developer ⏳)
+
+<img src="./assets/github-snake.svg" />
 
 ```kotlin
 object ArthurViniciusBA1 {
@@ -13,7 +16,7 @@ object ArthurViniciusBA1 {
 
 ---
 
-## 🤓🖥️ Minhas Skills
+## 🤓🖥️ My skills and tools
 
 <br>
 
@@ -27,7 +30,7 @@ object ArthurViniciusBA1 {
 
 ---
 
-## ⌨️ Minha conta GitHub 👾
+## ⌨️ GitHub Info 👾
 
 <br>
 
@@ -42,8 +45,8 @@ object ArthurViniciusBA1 {
 
 <br>
 
-#### Rede Sociais!
+#### You can find me at:
 
-👾 [Website][website]
+🌎 [Website][website]
 <br>
 👔 [Linkedin][linkedin]
