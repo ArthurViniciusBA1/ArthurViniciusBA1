@@ -30,7 +30,7 @@ object ArthurViniciusBA1 {
 
 ---
 
-## ⌨️ GitHub Info 👾
+## ⌨️ GitHub Info
 
 <br>
 
