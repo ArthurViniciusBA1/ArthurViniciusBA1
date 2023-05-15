@@ -1,7 +1,7 @@
 ##  Hi! <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />  
 ##  I'm <strong>Arthur!</strong>
 
-> (Front end developer ✅ && Back end developer ⏳)
+> Full Stack Developer
 
 <img src="./assets/github-snake.svg" />
 
