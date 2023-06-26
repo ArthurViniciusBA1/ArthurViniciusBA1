@@ -1,7 +1,6 @@
-##  Hi! <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />  
-##  I'm <strong>Arthur!</strong>
+##  Hi! I'm <strong>Arthur!</strong> <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />  
 
-> Full Stack Developer
+## Full Stack Developer
 
 <img src="./assets/github-snake.svg" />
 
