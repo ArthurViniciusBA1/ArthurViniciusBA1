@@ -5,15 +5,6 @@
 
 <img src="./assets/github-snake.svg" />
 
-```kotlin
-object ArthurViniciusBA1 {
- const name = "Arthur Vinícius"
- const acknowledgements = "Front end", "back end"
- const primarySkillset = "Front end Development"
- const languages = listOf("Javascript", "React", "Typescript", "Node")
-}
-```
-
 ---
 
 ## 🤓🖥️ My skills and tools
@@ -25,10 +16,6 @@ object ArthurViniciusBA1 {
 ---
 
 ## ⌨️ GitHub Info
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurViniciusBA1&show_icons=true&theme=dracula&line_height=27" alt="ArthurViniciusBA1's status"/>
 
 <br>
 
