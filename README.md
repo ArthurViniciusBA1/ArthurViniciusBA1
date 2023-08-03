@@ -1,4 +1,4 @@
-##  Hi! I'm <strong>Arthur!</strong> <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />  
+# Hi! I'm <strong>Arthur!</strong> <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />  
 
 ## Full Stack Developer
 
