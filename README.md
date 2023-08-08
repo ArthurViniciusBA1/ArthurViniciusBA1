@@ -6,7 +6,7 @@
 
 ---
 
-## 🤓🖥️ My skills and tools
+## 🖥️🤓 My skills and tools
 
 <br>
 
